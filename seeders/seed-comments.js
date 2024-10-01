@@ -7,7 +7,7 @@ async function seed() {
         author: 'Famished Fran',
         rant: false,
         stars: 5.0,
-        content: 'Excellent staff, highly recommended!'
+        content: 'Wow, simply amazing! Highly recommended!'
     })
 
     place.comments.push(comment.id)
